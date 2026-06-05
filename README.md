@@ -1,4 +1,5 @@
-<img width="1536" height="1024" alt="ChatGPT Image May 24, 2026, 06_29_15 PM" src="https://github.com/user-attachments/assets/6fe5c432-5c0e-4d6c-bdf9-1db0740c21e6" />
+<img width="975" height="551" alt="Screenshot 2026-06-05 094854" src="https://github.com/user-attachments/assets/4059ba9e-1b18-435f-b007-375677396a03" />
+
 # 📊 SkillReel Product Analytics Dashboard
 
 ## 🚀 Overview
