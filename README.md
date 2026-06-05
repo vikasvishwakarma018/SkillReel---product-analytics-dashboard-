@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="ChatGPT Image May 24, 2026, 06_29_15 PM" src="https://github.com/user-attachments/assets/6fe5c432-5c0e-4d6c-bdf9-1db0740c21e6" />
 # 📊 SkillReel Product Analytics Dashboard
 
 ## 🚀 Overview
